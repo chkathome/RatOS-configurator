@@ -124,7 +124,7 @@ export const FocusControls: React.FC<CameraSettingsProps> = (props) => {
 								'flex flex-1 cursor-default items-center justify-center space-x-2 whitespace-nowrap bg-brand-500 px-5 py-3 text-sm font-medium text-zinc-900',
 							)}
 						>
-							<span className="inline h-5 w-5 flex-shrink-0 font-sans text-base font-semibold leading-[18px]">Z</span>{' '}
+							<span className="inline h-5 w-5 flex-shrink-0 font-sans text-base font-semibold leading-[18px]">VZ</span>{' '}
 							<span className="inline">
 								{(livePosition?.z ?? 0) >= 0 && '+'}
 								{livePosition?.z?.toFixed(2) ?? '??'}
