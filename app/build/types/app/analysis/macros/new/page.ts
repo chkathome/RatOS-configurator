@@ -1,4 +1,4 @@
-// File: /home/runner/work/RatOS-configurator/RatOS-configurator/src/app/analysis/macros/new/page.tsx
+// File: /home/pi/RatOS-dev/RatOS-configurator/src/app/analysis/macros/new/page.tsx
 import * as entry from '../../../../../../app/analysis/macros/new/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

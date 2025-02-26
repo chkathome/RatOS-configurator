@@ -1,4 +1,4 @@
-// File: /home/runner/work/RatOS-configurator/RatOS-configurator/src/app/wizard/layout.tsx
+// File: /home/pi/RatOS-dev/RatOS-configurator/src/app/wizard/layout.tsx
 import * as entry from '../../../../app/wizard/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
